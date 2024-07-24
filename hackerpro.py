@@ -80,7 +80,7 @@ no = set(['no', 'n'])
 
 
 def logo():
-    print """
+    print() """
                            - Powered by
   _______        _           _           _   _____            _       
  |__   __|      | |         (_)         | | |  __ \          | |      
